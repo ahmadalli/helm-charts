@@ -3,6 +3,16 @@ entries:
   redis:
   - apiVersion: v2
     appVersion: 0.1.0
+    created: "2021-02-10T14:34:38.388239444Z"
+    description: A Helm chart for redis
+    digest: 9e0774fd135d162e92f3ac4381653048e02d5872225dfd51b1292878df40df8e
+    name: redis
+    type: application
+    urls:
+    - https://github.com/ahmadalli/helm-charts/releases/download/redis-1.0.0/redis-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v2
+    appVersion: 0.1.0
     created: "2021-01-30T13:46:41.955472181Z"
     description: A Helm chart for redis
     digest: 14b21d1347054f27c841533b05eb91488be1969b8d5b2f49eb0e7e1b970b2bd0
