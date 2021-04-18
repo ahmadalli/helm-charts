@@ -49,6 +49,7 @@ redis:
     #   memory: 128Mi
 
 monitoring:
+  enabled: false
   image:
     repository: oliver006/redis_exporter
     pullPolicy: IfNotPresent
